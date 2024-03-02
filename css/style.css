@@ -7,6 +7,11 @@ body {
     flex-direction: column;
     min-height: 100vh; /* Ensure the body takes up at least the full height of the viewport */
     background-color: #f0f0f0; /* Background color for the entire page */
+    background-image: url('andy-holmes-wdz-dez94RQ-unsplash.jpg'); /* Path to your background image */
+    background-size: cover; /* Cover the entire viewport */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Prevent the background image from repeating */
+
 }
 
 header {
