@@ -90,6 +90,14 @@ p {
     margin: 0 auto; /* Remove bottom margin for spacing between the content and footer */
 }
 
+.contact-section {
+    display: flex;
+    justify-content: center; /* Center the section horizontally */
+    align-items: center; /* Center the section vertically */
+    min-height: 100vh; /* Ensure the section takes up the full height of the viewport */
+    margin-top: 50px; /* Add space from the top */
+}
+
 footer {
     margin-top: auto;
     background-color: #000;
