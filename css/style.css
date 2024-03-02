@@ -21,6 +21,14 @@ header {
     padding-bottom: 60px; /* Adjust the padding to provide space for the footer */
 }
 
+.faq-section {
+    padding-bottom: 60px; /* Adjust the padding to provide space for the footer */
+}
+
+.faq-section p{
+    margin: 0;
+}
+
 .container {
     max-width: 800px;
     margin: 0 auto;
