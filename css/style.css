@@ -31,6 +31,10 @@ nav ul li a {
     color: #fff;
 }
 
+.hero {
+    padding: 50px 0; /* Add padding top and bottom to the hero section */
+}
+
 h1, p {
     text-align: center;
     max-width: 600px;
@@ -50,4 +54,5 @@ footer {
     align-items: center;
     justify-content: center;
     height: 100px; /* Height of the footer */
+    margin-top: 20px; /* Add margin to separate from the section above */
 }
