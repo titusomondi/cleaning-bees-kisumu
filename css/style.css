@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #000;
     color: #fff;
     padding: 10px;
 }
@@ -39,7 +39,7 @@ h1, p {
 
 footer {
     margin-top: auto;
-    background-color: #333;
+    background-color: #000;
     color: #fff;
     text-align: center;
     padding: 10px;
