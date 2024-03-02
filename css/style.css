@@ -34,6 +34,7 @@ nav ul li a {
 h1, p {
     text-align: center;
     max-width: 600px;
+    margin: 0 auto; /* Center the content horizontally */
 }
 
 footer {
